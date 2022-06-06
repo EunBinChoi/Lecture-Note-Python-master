@@ -1,1 +1,1 @@
-# MyLectureNote_Python
+# LectureNote_Python
